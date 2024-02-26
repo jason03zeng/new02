@@ -1,2 +1,7 @@
-# new02
-new test 02
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x5798AF0e474cf1231dB7Dd1c3Df9638589D92870'
+quorum: 1
+
